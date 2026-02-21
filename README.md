@@ -1,6 +1,6 @@
 <div align="center">
 
-# obsClock
+# <h3>obsClock</h3>
 
 </div>
 
