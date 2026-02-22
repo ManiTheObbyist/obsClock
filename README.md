@@ -11,18 +11,19 @@
 * If your antivirus flags obsClock as "malware", then turn the antivirus off. 
 
 ## Usage instructions
+1. Go to the link in the "link.txt" file, and click the download button, then extract the files from the obsClock.zip file.
 
-1. Open the "obsClockSETUP.exe" file, and wait for every file and folder to load.
+2. Open the "obsClockSETUP.exe" file, and wait for every file and folder to load.
 
-2. To activate, open the "launcher.bat" file and set your settings.
+3. To activate, open the "launcher.bat" file and set your settings.
 
-2.1. To set your settings, in "New Year mode", if you want a "HAPPY NEW YEAR!" text put below the time for 30 minutes after the time hits 0 o'clock, then type in "on", otherwise, type "off".
+3.1. To set your settings, in "New Year mode", if you want a "HAPPY NEW YEAR!" text put below the time for 30 minutes after the time hits 0 o'clock, then type in "on", otherwise, type "off".
 
-2.2. In "White mode" if you want the background to be white and the text to be dark, type in "on", otherwise, type in "off".
+3.2. In "White mode" if you want the background to be white and the text to be dark, type in "on", otherwise, type in "off".
 
-2.3. In "AM/PM mode" if you want your clock to display time in AM/PM, then type in "on", otherwise, type in "off".
+3.3. In "AM/PM mode" if you want your clock to display time in AM/PM, then type in "on", otherwise, type in "off".
 
-3. Add it as a window in OBS Studio, if you selected "New Year mode" as "off", you can use the 'alt' key to resize the window from the right, otherwise, it would mess up the "HAPPY NEW YEAR!" text.
+4. Add it as a window in OBS Studio, if you selected "New Year mode" as "off", you can use the 'alt' key to resize the window from the right, otherwise, it would mess up the "HAPPY NEW YEAR!" text.
 
 All done! You can now enjoy your clock in OBS Studio for free.
 
