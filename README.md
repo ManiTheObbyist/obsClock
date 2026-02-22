@@ -6,7 +6,7 @@
 
 ## Important things to note:
 
-* I do not own any Telegram channels or Youtube tutorials, apart from the one on the channel "[ManitheObbyist](https://www.youtube.com/@ManiTheObbyist)"
+* I do not own any Telegram channels or Youtube tutorials on how to set up obsClock.
 
 * If your antivirus flags obsClock as "malware", then turn the antivirus off. 
 
